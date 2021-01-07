@@ -40,7 +40,7 @@ title: Craft Legendari Shadowlands
 |Guanti|||
 |Cintura|||
 |Pantaloni|||
-|Stivali|||Migú
+|Stivali|Angelripper|1|Migú
 
 ## Piastre
 
