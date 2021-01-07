@@ -1,5 +1,5 @@
 ---
-permalink: /cdd/legendari-shadowlands/
+permalink: /legendari-shadowlands/
 ---
 
 # Craft Legendary Shadowlands
