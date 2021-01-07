@@ -1,8 +1,7 @@
 ---
 permalink: /legendari-shadowlands/
+title: Craft Legendary Shadowlands
 ---
-
-# Craft Legendary Shadowlands
 
 ## Stoffa
 
