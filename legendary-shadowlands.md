@@ -53,7 +53,7 @@ title: Craft Legendari Shadowlands
 |Guanti|||
 |Cintura|||Hadriel|
 |Pantaloni|Karsormyr|4|Karsormyr, Werowero|
-|Stivali|Karsormyr|3|Lunaedge|
+|Stivali|Karsormyr|4|Lunaedge|
 
 ## Gioielli
 
