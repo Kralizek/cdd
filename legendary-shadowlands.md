@@ -33,7 +33,7 @@ title: Craft Legendari Shadowlands
 
 |Pezzo|Crafter|Rank attuale|Giocatori|
 |-|-|-|-|
-|Testa|Lurthz|1|Shamario, Bromgol, Sandwitch|
+|Testa|Fuggo (Escila)|2|Shamario, Bromgol, Sandwitch|
 |Spalle|Lurthz|1|Lorey, Lurthz|
 |Torso|||
 |Bracciali|||
