@@ -7,7 +7,7 @@ title: Craft Legendari Shadowlands
 
 |Pezzo|Crafter|Rank attuale|Giocatori|
 |-|-|-|-|
-|Testa|Anakyn|3|Xenegoth, Norcuron, Anakyn, Dbride|
+|Testa|Anakyn|4|Xenegoth, Norcuron, Anakyn, Dbride|
 |Spalle|Xasik|2|Mead, Kanonsantos, Xasik, Novae|
 |Torso|||
 |Bracciali|Xenegoth|2|Zevier|
@@ -47,7 +47,7 @@ title: Craft Legendari Shadowlands
 |Pezzo|Crafter|Rank attuale|Giocatori|
 |-|-|-|-|
 |Testa|||
-|Spalle|Tharox|3|Moira, Deathguns|
+|Spalle|Tharox|4|Moira, Deathguns|
 |Torso|||Thuroc|
 |Bracciali|||
 |Guanti|||
