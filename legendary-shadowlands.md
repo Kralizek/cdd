@@ -55,8 +55,9 @@ title: Craft Legendari Shadowlands
 |Pantaloni|Karsormyr|4|Karsormyr, Werowero|
 |Stivali|Karsormyr|4|Lunaedge|
 
-## Gioielli
+## Accessori
 
 |Pezzo|Crafter|Rank attuale|Giocatori|
 |-|-|-|-|
 |Anelli|Lunaedge|3|Kaleyla, Tharox, Master|
+|Mantello|Novae|1|
