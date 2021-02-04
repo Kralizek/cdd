@@ -9,7 +9,7 @@ title: Craft Legendari Shadowlands
 |-|-|-|-|
 |Testa|Anakyn|4|Xenegoth, Norcuron, Anakyn, Dbride|
 |Spalle|Xasik|2|Mead, Kanonsantos, Xasik, Novae|
-|Torso|||
+|Torso|Isadore|3||
 |Bracciali|Xenegoth|2|Zevier|
 |Guanti|Xenegoth|3|
 |Cintura|||
