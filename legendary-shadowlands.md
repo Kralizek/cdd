@@ -11,7 +11,7 @@ title: Craft Legendari Shadowlands
 |Spalle|Xasik|2|Mead, Kanonsantos, Xasik, Novae|
 |Torso|||
 |Bracciali|Xenegoth|2|Zevier|
-|Guanti|Xenegoth|2|
+|Guanti|Xenegoth|3|
 |Cintura|||
 |Pantaloni|Isadore|2|Shandel|
 |Stivali|Isadore|4|Isadore|
@@ -59,4 +59,4 @@ title: Craft Legendari Shadowlands
 
 |Pezzo|Crafter|Rank attuale|Giocatori|
 |-|-|-|-|
-|Anelli|Lunaedge|2|Kaleyla, Tharox, Master|
+|Anelli|Lunaedge|3|Kaleyla, Tharox, Master|
