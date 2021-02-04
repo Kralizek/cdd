@@ -15,6 +15,7 @@ title: Craft Legendari Shadowlands
 |Cintura|||
 |Pantaloni|Isadore|2|Shandel|
 |Stivali|Isadore|4|Isadore|
+|Mantello|Novae|1|
 
 ## Cuoio
 
@@ -60,4 +61,3 @@ title: Craft Legendari Shadowlands
 |Pezzo|Crafter|Rank attuale|Giocatori|
 |-|-|-|-|
 |Anelli|Lunaedge|3|Kaleyla, Tharox, Master|
-|Mantello|Novae|1|
