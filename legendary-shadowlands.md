@@ -52,7 +52,7 @@ title: Craft Legendari Shadowlands
 |Torso|||Thuroc|
 |Bracciali|||
 |Guanti|||
-|Cintura|||Hadriel|
+|Cintura|Karsomyr|4|Hadriel|
 |Pantaloni|Karsormyr|4|Karsormyr, Werowero|
 |Stivali|Karsormyr|4|Lunaedge|
 
