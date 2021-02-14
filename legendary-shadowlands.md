@@ -61,3 +61,4 @@ title: Craft Legendari Shadowlands
 |Pezzo|Crafter|Rank attuale|Giocatori|
 |-|-|-|-|
 |Anelli|Lunaedge|3|Kaleyla, Tharox, Master|
+|Collana|Lunaedge|2||
