@@ -13,7 +13,7 @@ title: Craft Legendari Shadowlands
 |Bracciali|Xenegoth|3|Zevier|
 |Guanti|Xenegoth|3|
 |Cintura|||
-|Pantaloni|Isadore|2|Shandel|
+|Pantaloni|Isadore|4|Shandel|
 |Stivali|Isadore|4|Isadore|
 |Mantello|Novae|1|
 
