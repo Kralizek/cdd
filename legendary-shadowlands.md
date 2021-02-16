@@ -47,7 +47,7 @@ title: Craft Legendari Shadowlands
 
 |Pezzo|Crafter|Rank attuale|Giocatori|
 |-|-|-|-|
-|Testa|||
+|Testa|Karsormyr|2||
 |Spalle|Tharox|4|Moira, Deathguns|
 |Torso|||Thuroc|
 |Bracciali|||
