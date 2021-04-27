@@ -49,7 +49,7 @@ title: Craft Legendari Shadowlands
 |-|-|-|-|
 |Testa|Karsormyr|2||
 |Spalle|Tharox|4|Moira, Deathguns|
-|Torso|||Thuroc|
+|Torso|Karsomyr|2|Thuroc|
 |Bracciali|||
 |Guanti|||
 |Cintura|Karsomyr|4|Hadriel|
